@@ -6,6 +6,7 @@ public class Test {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("this is for test");
 		System.out.println("now is 14:56");
+		System.out.println("Beauriful night");
 	}
 
 }
